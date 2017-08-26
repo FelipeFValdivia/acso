@@ -98,3 +98,7 @@ nav ul li ul a:hover {
 .contact-card .card-content p {
 	color: #ffffff;
 }
+
+.input[type=text].valid:not(.browser-default), input[type=text].valid:not(.browser-default):focus {
+	color: #ffffff;
+}
